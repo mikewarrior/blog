@@ -34,7 +34,7 @@ You should see the isolated env activated in you command line at the beginning o
 
 Finally, we need to install all the python dependencies for the blog project. To able to do this just run:
 ```
-    pip install path-to-repository/requirements.txt
+    pip install -r path-to-repository/requirements.txt
 ```
 
 This will install all the dependencies needed for this project.
