@@ -3,3 +3,4 @@ env/*
 env/blog/
 *.pyc
 .DS_Store
+blogDB
