@@ -4,7 +4,7 @@ from rest_framework.generics import(
     RetrieveAPIView,
     DestroyAPIView,
     UpdateAPIView
-    )x
+    )
 from blog.api.models import Post
 from .serializers import PostSerializer
 from django.db.models import Q
